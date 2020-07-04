@@ -134,3 +134,5 @@
 /home/pi/src/Blazor.Pi/Client/obj/Debug/netstandard2.0/blazor/linker/Blazor.Pi.Shared.pdb
 /home/pi/src/Blazor.Pi/Client/obj/Debug/netstandard2.0/blazor/inputs.bootjson.cache
 /home/pi/src/Blazor.Pi/Client/obj/Debug/netstandard2.0/blazor/blazor.boot.json
+/home/pi/src/Blazor.Pi/Client/obj/Debug/netstandard2.0/RazorDeclaration/Pages/Pages/Led.razor.g.cs
+/home/pi/src/Blazor.Pi/Client/obj/Debug/netstandard2.0/Razor/Pages/Pages/Led.razor.g.cs
