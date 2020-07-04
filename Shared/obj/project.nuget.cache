@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFSlYOrT15Pp5Cv3OJQZRIP2QCZUh9tZpCJiRfonnlteh4MgbHOSxfkVPbNcNm12siNPHr07LAA9/aSnfXW9YQ==",
+  "success": true,
+  "projectFilePath": "/home/pi/src/Blazor.Pi/Shared/Blazor.Pi.Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/pi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/pi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
