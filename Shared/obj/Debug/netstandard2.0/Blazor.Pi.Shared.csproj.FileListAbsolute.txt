@@ -1,0 +1,9 @@
+/home/pi/src/Blazor.Pi/Shared/bin/Debug/netstandard2.0/Blazor.Pi.Shared.deps.json
+/home/pi/src/Blazor.Pi/Shared/bin/Debug/netstandard2.0/Blazor.Pi.Shared.dll
+/home/pi/src/Blazor.Pi/Shared/bin/Debug/netstandard2.0/Blazor.Pi.Shared.pdb
+/home/pi/src/Blazor.Pi/Shared/obj/Debug/netstandard2.0/Blazor.Pi.Shared.csprojAssemblyReference.cache
+/home/pi/src/Blazor.Pi/Shared/obj/Debug/netstandard2.0/Blazor.Pi.Shared.AssemblyInfoInputs.cache
+/home/pi/src/Blazor.Pi/Shared/obj/Debug/netstandard2.0/Blazor.Pi.Shared.AssemblyInfo.cs
+/home/pi/src/Blazor.Pi/Shared/obj/Debug/netstandard2.0/Blazor.Pi.Shared.csproj.CoreCompileInputs.cache
+/home/pi/src/Blazor.Pi/Shared/obj/Debug/netstandard2.0/Blazor.Pi.Shared.dll
+/home/pi/src/Blazor.Pi/Shared/obj/Debug/netstandard2.0/Blazor.Pi.Shared.pdb

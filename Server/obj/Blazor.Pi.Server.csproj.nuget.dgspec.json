@@ -118,6 +118,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "IoT.Device.Bindings": {
+              "target": "Package",
+              "version": "[1.0.0-*, )"
+            },
             "Microsoft.AspNetCore.Blazor.Server": {
               "target": "Package",
               "version": "[3.0.0-preview9.19465.2, )"
@@ -125,6 +129,10 @@
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "System.Device.Gpio": {
+              "target": "Package",
+              "version": "[1.0.0-*, )"
             }
           },
           "imports": [
